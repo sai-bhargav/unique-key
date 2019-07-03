@@ -12,11 +12,11 @@ $ npm install --save unique-key
 
 ```js
 
-let uniqueKey = require('unique-key');
+var uniqueKey = require('unique-key');
 import uniqueKey from uniqueKey;
 
-function testArguments() {
-  return uniqueKey(length);
+function testArguments(len) {
+  return uniqueKey(len);
 }
 
 ```
