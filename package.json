@@ -1,7 +1,7 @@
 {
-  "name": "unique-key",
+  "name": "@sai-bhargav/unique-key",
   "version": "1.0.0",
-  "description": "> Generates a unique key of given length",
+  "description": "> Generates a unique key for a given length",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sai-bhargav/unique-key.git"
   },
-  "author": "",
+  "author": "bhargav",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sai-bhargav/unique-key/issues"
