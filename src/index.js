@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = function (value) {
 	let res = '';
 	let l = value/11;
