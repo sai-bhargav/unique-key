@@ -1,6 +1,6 @@
 {
   "name": "unique-keygen",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "> Generates a unique key for a given length",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,13 @@
     "url": "git+https://github.com/sai-bhargav/unique-key.git"
   },
   "author": "bhargav",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sai-bhargav/unique-key/issues"
   },
-  "homepage": "https://github.com/sai-bhargav/unique-key#readme"
+  "homepage": "https://github.com/sai-bhargav/unique-key#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
 }
