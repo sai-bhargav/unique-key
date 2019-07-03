@@ -1,5 +1,5 @@
 {
-  "name": "@sai-bhargav/unique-key",
+  "name": "unique-keygen",
   "version": "1.0.0",
   "description": "> Generates a unique key for a given length",
   "main": "index.js",
