@@ -1,4 +1,4 @@
-# unikey-key
+# Unique-key
 
 > Generates a unique key of given length
 
