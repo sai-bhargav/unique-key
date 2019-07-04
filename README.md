@@ -14,10 +14,10 @@ $ npm install --save unique-keygen
 
 ```js
 
-var uniqueKey = require('unique-keygen');
+var uniqueKeygen = require('unique-keygen');
 
-function testArguments(len) {
-  return uniqueKeygen(len);
+function generateUniqueKey(len) {
+  console.log(uniqueKeygen(len)) // prints the generated unique key of length 'len'
 }
 
 ```
